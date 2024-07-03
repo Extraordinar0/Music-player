@@ -1,0 +1,46 @@
+4
+Remember one day you will die
+Polyphia
+E:\VS code files\Ruby code files\custom_program\images\polyphia.jpg
+2
+Playing god
+E:\VS code files\Ruby code files\custom_program\music_storage\Playing_god.mp3
+Bad
+E:\VS code files\Ruby code files\custom_program\music_storage\Bad.mp3
+Arcaea
+Laur
+E:\VS code files\Ruby code files\custom_program\images\laur.jpg
+4
+Grievous Lady
+E:\VS code files\Ruby code files\custom_program\music_storage\Grievous_Lady.mp3
+Vindication
+E:\VS code files\Ruby code files\custom_program\music_storage\Vindication_(Extended).mp3
+Arghena
+E:\VS code files\Ruby code files\custom_program\music_storage\Arghena.mp3
+Viyella Destiny
+E:\VS code files\Ruby code files\custom_program\music_storage\Viyella_Destiny.mp3
+Vivy
+Sho Ishihama
+E:\VS code files\Ruby code files\custom_program\images\Vivy.jpg
+3
+Smile a Little More
+E:\VS code files\Ruby code files\custom_program\music_storage\Smile_a_Little_More.mp3
+The Archives
+E:\VS code files\Ruby code files\custom_program\music_storage\The_Archives.mp3
+Project Singularity
+E:\VS code files\Ruby code files\custom_program\music_storage\Project_Singularity.mp3
+Oppenheimer
+Ludwig Göransson
+E:\VS code files\Ruby code files\custom_program\images\Oppenheimer.jpg
+5
+Can You Hear The Music
+E:\VS code files\Ruby code files\custom_program\music_storage\Can_You_Hear_The_Music.mp3
+Destroyer Of Worlds
+E:\VS code files\Ruby code files\custom_program\music_storage\Destroyer_Of_Worlds.mp3
+Quantum Mechanics
+E:\VS code files\Ruby code files\custom_program\music_storage\Quantum_Mechanics.mp3
+American Prometheus
+E:\VS code files\Ruby code files\custom_program\music_storage\American_Prometheus.mp3
+Trinity
+E:\VS code files\Ruby code files\custom_program\music_storage\Trinity.mp3
+
